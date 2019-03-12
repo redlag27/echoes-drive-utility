@@ -7,3 +7,5 @@ Cómo ejecutar este programa (comprobado su funcionamiento en Ubuntu)
 4. Abrir Echoes y hacer click en la pestaña "ABOUT". Ahí verás el directorio de trabajo que está siendo utilizado.
 5. Volver a la carpeta del programa, abrir el fichero "configuración.txt", introducir la ruta al directorio de trabajo y guardar.
 6. Por último desde la consola ejecutar el módulo principal con la instrucción: python main.py
+
+Después de esto esto se abrirá en tu navegador una página en la que se te pide que inicies sesión en tu cuenta de Gmail y hecho esto la aplicación solicita que le des permiso de acceso y edición al Drive de la cuenta en que iniciaste sesión. Una vez hecho esto se descargará un archivo token.json que te dará acceso permanente sin volver a solicitar permisos cada vez que ejecutes el script.
