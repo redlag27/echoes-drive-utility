@@ -10,8 +10,7 @@ ruta = f.read()
 f.close()
 nom_fichero = "registro_drive"
 if not os.path.exists(ruta):
-	print("La ruta expecificada en el fichero de\
-	 configuración no existe")
+	print("La ruta expecificada en el fichero de configuración no existe")
 	exit()
 #Guarda los datos de GDrive en el fichero local al principio del programa
 lista_archivos= miCliente.getListaArchivos()
