@@ -1,0 +1,8 @@
+---------------------Manual de Echoes Transfer v0.0---------------------
+
+*)Requisitos previos:
+	-Disponer de una cuenta de Google (deberás conceder a la aplicación permisos de acceso, con lo que se generará un archivo "token.json"). 
+	-Tener instalado Python y la librería "google-api-client" 
+
+**)Antes de ejecutar establecer la ruta a la carpeta en el fichero "configuracion.txt"
+***)Ejecutar el script main2.py
