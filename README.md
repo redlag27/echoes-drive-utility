@@ -1,5 +1,5 @@
 # echoes-drive-utility
-Cómo ejecutar este programa (comprobado su funcionamiento en Ubuntu)
+Cómo ejecutar este programa (comprobado su funcionamiento en Ubuntu y Windows 7 y 10 64 bits)
 
 1. Descargar e instalar Python (2.6 o posterior): https://www.python.org/downloads/
 2. Instalar la librería de Google para su API: https://developers.google.com/api-client-library/python/start/installation
