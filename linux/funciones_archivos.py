@@ -22,6 +22,7 @@ def tipoArchivo(nombre_archivo):
 		'.csv': 'text/csv',
 		'.jpg': 'image/jpeg',
 		'.png': 'image/png',
+		'.dat': 'text/dat'
 	}
 	tipo = switcher.get(formato, None)
 	return tipo
